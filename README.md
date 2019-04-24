@@ -17,13 +17,7 @@ yarn add @ncodefactory/prop-types-custom
 ## usage: ##
 
 ```js
-import default_export_from_the_module_being_used from '@ncodefactory/prop-types-custom';
-```
-
-or
-
-```js
-import { some_known_export_from_the_module_being_used } from '@ncodefactory/prop-types-custom';
+import customPropType from '@ncodefactory/prop-types-custom';
 ```
 
 ```javascript
